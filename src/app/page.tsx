@@ -30,6 +30,8 @@ export default function Home() {
     // Add your logic for what happens when Done is clicked
   };
 
+  console.log(someSelected)
+
   return (
     <div className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="flex justify-center w-full">
